@@ -8,7 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="10" heigth="10"/><p>julio.wow.1997@gmail.com</p>
+  <p align="left" style="display: flex; align-items: center;">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="30"/>
+    <p style="margin-left: 10px;">julio.wow.1997@gmail.com</p>
+  </p>
   <a href="https://linkedin.com/in/julio-sanchez-1961a519b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julio-sanchez-1961a519b/" height="30" width="40" /></a>
 </p>
 
