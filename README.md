@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Julio
+#### Desarrollador Full Stack
+![Desarrollador Full Stack](https://i.pinimg.com/564x/55/39/8b/55398b80d2b3d3e43327a1626013d14e.jpg)
 
-<!--
-**Julio-Sanchez97/Julio-Sanchez97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado por el desarrollo web, me gusta seguir aprendiendo nuevas tecnologías, además de estar siempre retandome a realizar nuevos proyectos con los conocimientos obtenidos. Espero podamos colaborar para que esta gran comunida siga creciendo.
 
-Here are some ideas to get you started:
+Habilidades: ReactJs / JavaScript / HTML / CSS / NodeJs / ExpressJs / Sequelize / PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en this page. 
+
+
+
+
+
