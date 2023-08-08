@@ -1,5 +1,5 @@
-<img align="center" src="https://camo.githubusercontent.com/2ef9aa759f3a8454000d205802f53e1bb304c6a26e32bd2cebebf47f51ded282/68747470733a2f2f692e70696e696d672e636f6d2f353634782f35352f33392f38622f35353339386238306432623364336534333332376131363236303133643134652e6a7067" alt="img_inicio" width="250"/>
 <h1 align="center">Hola 👋, Soy Julio Sanchez</h1>
+<img align="center" src="https://camo.githubusercontent.com/2ef9aa759f3a8454000d205802f53e1bb304c6a26e32bd2cebebf47f51ded282/68747470733a2f2f692e70696e696d672e636f6d2f353634782f35352f33392f38622f35353339386238306432623364336534333332376131363236303133643134652e6a7067" width="250"/>
 <h3 align="center">Soy un apasionado por el desarrollo web, me gusta seguir aprendiendo nuevas tecnologías, además de estar siempre retandome a realizar nuevos proyectos con los conocimientos obtenidos. Espero podamos colaborar para que esta gran comunida siga creciendo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julio-sanchez97&label=Profile%20views&color=0e75b6&style=flat" alt="julio-sanchez97" /> </p>
