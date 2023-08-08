@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">Soy un apasionado por el desarrollo web, me gusta seguir aprendiendo nuevas tecnologías, además de estar siempre retandome a realizar nuevos proyectos con los conocimientos obtenidos. Espero podamos colaborar para que esta gran comunida siga creciendo.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=julio-sanchez97&label=Profile%20views&color=0e75b6&style=flat" alt="julio-sanchez97" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=julio-sanchez97&label=Profile%20views&color=0e75b6&style=flat" alt="julio-sanchez97" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
